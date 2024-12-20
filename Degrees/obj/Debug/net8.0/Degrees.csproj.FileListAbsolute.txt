@@ -1,0 +1,14 @@
+C:\Users\artem\source\repos\functions\Degrees\bin\Debug\net8.0\Degrees.exe
+C:\Users\artem\source\repos\functions\Degrees\bin\Debug\net8.0\Degrees.deps.json
+C:\Users\artem\source\repos\functions\Degrees\bin\Debug\net8.0\Degrees.runtimeconfig.json
+C:\Users\artem\source\repos\functions\Degrees\bin\Debug\net8.0\Degrees.dll
+C:\Users\artem\source\repos\functions\Degrees\bin\Debug\net8.0\Degrees.pdb
+C:\Users\artem\source\repos\functions\Degrees\obj\Debug\net8.0\Degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\functions\Degrees\obj\Debug\net8.0\Degrees.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\functions\Degrees\obj\Debug\net8.0\Degrees.AssemblyInfo.cs
+C:\Users\artem\source\repos\functions\Degrees\obj\Debug\net8.0\Degrees.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\functions\Degrees\obj\Debug\net8.0\Degrees.dll
+C:\Users\artem\source\repos\functions\Degrees\obj\Debug\net8.0\refint\Degrees.dll
+C:\Users\artem\source\repos\functions\Degrees\obj\Debug\net8.0\Degrees.pdb
+C:\Users\artem\source\repos\functions\Degrees\obj\Debug\net8.0\Degrees.genruntimeconfig.cache
+C:\Users\artem\source\repos\functions\Degrees\obj\Debug\net8.0\ref\Degrees.dll
